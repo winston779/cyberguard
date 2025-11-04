@@ -1,6 +1,6 @@
 # CyberGuard机场官网地址
 
-最新地址：[cyberguard.best](https://cyberguard.best/#/register?code=6BPG7WPj)
+最新地址：[cyberguard.best](https://cyberguard.top/#/register?code=6BPG7WPj)
 
 ## CyberGuard机场介绍
 
@@ -8,15 +8,14 @@ CyberGuard 机场是一家2023 年开始运营的 Shadowsocks 机场，线路有
 
 ## CyberGuard优惠码
 
-CyberGuard 4月优惠 & 返佣升级公告
+季付套餐 立減 15%
+優惠碼：CGSEASON15
 
-限时优惠活动
+年付及以上套餐 立減 20%
+優惠碼：CGYEAR20
 
-季付及以上套餐：享 85折优惠，使用优惠码：APRIL15
-
-年付及以上套餐：享 8折优惠，使用优惠码：APRIL20
-
-不限时流量包：享 8折优惠，使用优惠码：APRILDATA
+流量包套餐 立減 10%
+優惠碼：CGDATA10
 
 ## CyberGuard价格
 
